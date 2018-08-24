@@ -83,7 +83,7 @@ namespace Variables
             //    Street = "Main Street",
             //    Town = "Letterkenny",
             //    County = "Donegal"
-            //});
+            //}); 
              
             people.RemoveAll(t => t.FirstName == "John");
 

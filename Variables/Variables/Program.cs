@@ -84,7 +84,7 @@ namespace Variables
             //    Town = "Letterkenny",
             //    County = "Donegal"
             //});
-
+             
             people.RemoveAll(t => t.FirstName == "John");
 
             foreach (var person in people)
